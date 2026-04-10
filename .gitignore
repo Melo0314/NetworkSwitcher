@@ -1,0 +1,48 @@
+# Qt Creator user settings
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+
+# qmake generated files
+.qmake.stash
+.qmake.cache
+Makefile
+Makefile.*
+qmake_qmake.stash
+
+# Build directories
+debug/
+release/
+
+# Compiler outputs
+*.obj
+*.o
+*.lo
+*.slo
+*.pch
+*.idb
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.dll
+*.exe
+
+# Qt generated files
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# IDE / OS files
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

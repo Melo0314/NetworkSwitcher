@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="qml/Main.qml">ui/qml/Main.qml</file>
+        <file alias="qml/SettingsPopup.qml">ui/qml/SettingsPopup.qml</file>
+        <file alias="qml/TrayMenuWindow.qml">ui/qml/TrayMenuWindow.qml</file>
+        <file alias="qml/dialogs/RouteTableDialog.qml">ui/qml/dialogs/RouteTableDialog.qml</file>
+        <file alias="qml/components/IconTextButton.qml">ui/qml/components/IconTextButton.qml</file>
+        <file alias="qml/components/ModeButton.qml">ui/qml/components/ModeButton.qml</file>
+        <file alias="qml/components/TrayMenuItem.qml">ui/qml/components/TrayMenuItem.qml</file>
+        <file alias="qml/components/ThemedIcon.qml">ui/qml/components/ThemedIcon.qml</file>
+
+        <file alias="icons/router.svg">assets/icons/tabler/router.svg</file>
+        <file alias="icons/app-switch.svg">assets/icons/app-switch.svg</file>
+        <file alias="icons/home.svg">assets/icons/tabler/home.svg</file>
+        <file alias="icons/world.svg">assets/icons/tabler/world.svg</file>
+        <file alias="icons/ban.svg">assets/icons/tabler/ban.svg</file>
+        <file alias="icons/toggle-left.svg">assets/icons/tabler/toggle-left.svg</file>
+        <file alias="icons/settings.svg">assets/icons/tabler/settings.svg</file>
+        <file alias="icons/x.svg">assets/icons/tabler/x.svg</file>
+        <file alias="icons/logs.svg">assets/icons/tabler/logs.svg</file>
+        <file alias="icons/eye.svg">assets/icons/tabler/eye.svg</file>
+        <file alias="icons/eye-off.svg">assets/icons/tabler/eye-off.svg</file>
+        <file alias="icons/device-floppy.svg">assets/icons/tabler/device-floppy.svg</file>
+        <file alias="icons/restore.svg">assets/icons/tabler/restore.svg</file>
+        <file alias="icons/route.svg">assets/icons/tabler/route.svg</file>
+        <file alias="icons/trash.svg">assets/icons/tabler/trash.svg</file>
+        <file alias="icons/file-text.svg">assets/icons/tabler/file-text.svg</file>
+        <file alias="icons/folder-open.svg">assets/icons/tabler/folder-open.svg</file>
+        <file alias="icons/plug-connected.svg">assets/icons/tabler/plug-connected.svg</file>
+        <file alias="icons/plug-connected-x.svg">assets/icons/tabler/plug-connected-x.svg</file>
+    </qresource>
+</RCC>
